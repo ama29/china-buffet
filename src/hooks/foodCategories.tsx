@@ -1,9 +1,9 @@
 import { useEffect, useState } from 'react';
 
-import meatMetadata from '/src/assets/images/meat/metadata.json';
-import seafoodMetadata from '/src/assets/images/seafood/metadata.json';
-import vegetableMetadata from '/src/assets/images/vegetables/metadata.json';
-import grainMetadata from '/src/assets/images/grains/metadata.json';
+import meatMetadata from 'src/assets/images/meat/metadata.json';
+import seafoodMetadata from 'src/assets/images/seafood/metadata.json';
+import vegetableMetadata from 'src/assets/images/vegetables/metadata.json';
+import grainMetadata from 'src/assets/images/grains/metadata.json';
 
 interface Metadata {
   caption: string;
