@@ -1,0 +1,30 @@
+{
+  "baked_crab.jpg": {
+    "caption": "Baked Crab",
+    "description": "Tender crab baked with sweet caramelized onion"
+  },
+  "coconut_shrimp.jpg": {
+    "caption": "Honey Walnut Shrimp",
+    "description": "Lightly battered shrimp glazed with honey"
+  },
+  "crab_rangoon.jpeg": {
+    "caption": "Crab Rangoon",
+    "description": "Deep fried wonton wrappers with a filling of cream cheese and imitation crab"
+  },
+  "mixed_vegetables_seafood.jpeg": {
+    "caption": "Seafood with Mixed Vegetables",
+    "description": "Shrimp and crab sauteed with cauliflower, bell pepper, and zucchini"
+  },
+  "mussels.jpeg": {
+    "caption": "Baked Mussels",
+    "description": "Tender mussels baked with a creamy cheese topping"
+  },
+  "stir_fried_prawn.jpeg": {
+    "caption": "Stir Fried Prawn",
+    "description": "Juicy prawn stir fried with bell peppers and jalapenos"
+  },
+  "sushi.jpeg": {
+    "caption": "Sushi",
+    "description": "Cucumber, zucchini, cucumber, and imitation crab wrapped in rice and seaweed"
+  }
+}

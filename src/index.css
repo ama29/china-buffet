@@ -1,0 +1,42 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Marcellus";
+    src: url('/src/fonts/marcellussc-regular-webfont.woff2') format('woff2'),
+         url('/src/fonts/marcellussc-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url('/src/fonts/Lato-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: "Lato";
+    src: url('/src/fonts/Lato-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+} 
+
+@theme {
+    --color-customRed: #a41304 ;
+    --color-customGold: #ffcc00 ;
+    --color-customBronze: #efcc90 ;
+    --color-customCream: #fff9f2 ;
+
+    --font-main: "Marcellus", "sans-serif";
+    --font-body: "Lato", "sans-serif";
+}
+
+@layer base {
+  html, body {
+    @apply m-0 p-0;
+  }
+}

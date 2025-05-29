@@ -1,0 +1,14 @@
+{
+  "fried_rice.jpg": {
+    "caption": "Egg Fried Rice",
+    "description": "Stir fried rice with egg and mixed vegetables"
+  },
+  "lo_mein.jpg": {
+    "caption": "Lo Mein",
+    "description": "Soy sauce glazed noodles stir fried with cabbage and carrots"
+  },
+  "rice_noodles.jpg": {
+    "caption": "Rice Noodles",
+    "description": "Glassy rice noodles stir fried with cabbage and carrots"
+  }
+}

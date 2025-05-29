@@ -1,0 +1,14 @@
+{
+  "egg_rolls_veggies.jpeg": {
+    "caption": "Egg Rolls (vegetarian)",
+    "description": "Fried egg rolls filled with cabbage, carrots, and egg"
+  },
+  "fried_mushroom.jpg": {
+    "caption": "Stir Fried Mushrooms",
+    "description": "Sweet mushrooms sauteed with carrots and onions with a sweet soy glaze"
+  },
+  "green_beans.jpeg": {
+    "caption": "Green beans",
+    "description": "Crisp green beans sauteed with garlic"
+  }
+}

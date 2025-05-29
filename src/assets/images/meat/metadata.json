@@ -1,0 +1,38 @@
+{
+  "beef_broccoli.jpeg": {
+    "caption": "Beef and Broccoli",
+    "description": "Tender beef and fresh broccoli stir fried with a sweet soy sauce"
+  },
+  "chicken_broccoli.jpeg": {
+    "caption": "Chicken and Broccoli",
+    "description": "Tender chicken and fresh broccoli stir fried with a sweet soy sauce"
+  },
+  "chicken_katsu_peanut_sauce.jpeg": {
+    "caption": "Peanut Butter Chicken Katsu",
+    "description": "Breaded chicken katsu strips with creamy peanut sauce"
+  },
+  "chicken_teriyaki_skewers.jpeg": {
+    "caption": "Chicken Teriyaki Skewers",
+    "description": "Tender chicken skewers drizzled with sweet teriyaki sauce"
+  },
+  "egg_rolls.jpeg": {
+    "caption": "Egg Rolls (Pork)",
+    "description": "Fried egg rolls filled with cabbage, carrots, and pork"
+  },
+  "general_tso_chicken.jpg": {
+    "caption": "General Tso's Chicken",
+    "description": "Breaded chicken deep fried in a sweet and spicy sauce"
+  },
+  "meat_potstickers.jpg": {
+    "caption": "Potstickers",
+    "description": "Pan fried pork and cabbage dumplings with dipping sauce"
+  },
+  "pepper_pork.jpeg": {
+    "caption": "Pepper Pork",
+    "description": "Spicy jalapeno peppers, red chili peppers, and bell peppers stir fried with sliced pork"
+  },
+  "pork_ribs.jpg": {
+    "caption": "Pork ribs",
+    "description": "Tender pork ribs glazed in a sweet and sour sauce"
+  }
+}
